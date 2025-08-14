@@ -1,4 +1,6 @@
-//CLUB ADMISSION PORTAL
+// Project: CLUB approval Program
+// Author: Prashant Mishra
+// Features: file handeling, saves data, feedbacks,Booleans,questions, 3-attempt limit, 
 
 #include<iostream>
 #include<string>
@@ -72,4 +74,5 @@ int main(){
 	applicantsData(name , passed, feedback);
 		 return 0;
 }
+
 
